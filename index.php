@@ -18,7 +18,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         $dniConLetra = "Por favor, introduce un número de DNI válido de 8 dígitos.";
     }
 }
-?>
+?> 
 
 <!DOCTYPE html>
 <html lang="es">
